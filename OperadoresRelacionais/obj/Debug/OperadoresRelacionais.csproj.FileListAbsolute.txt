@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\source\repos\OperadoresRelacionais\bin\Debug\OperadoresRelacionais.exe.config
+C:\Users\murilo.fsantos1\source\repos\OperadoresRelacionais\bin\Debug\OperadoresRelacionais.exe
+C:\Users\murilo.fsantos1\source\repos\OperadoresRelacionais\bin\Debug\OperadoresRelacionais.pdb
+C:\Users\murilo.fsantos1\source\repos\OperadoresRelacionais\obj\Debug\OperadoresRelacionais.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\source\repos\OperadoresRelacionais\obj\Debug\OperadoresRelacionais.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\source\repos\OperadoresRelacionais\obj\Debug\OperadoresRelacionais.exe
+C:\Users\murilo.fsantos1\source\repos\OperadoresRelacionais\obj\Debug\OperadoresRelacionais.pdb

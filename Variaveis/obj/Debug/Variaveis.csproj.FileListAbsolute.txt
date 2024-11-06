@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Variaveis\bin\Debug\Variaveis.exe.config
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Variaveis\bin\Debug\Variaveis.exe
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Variaveis\bin\Debug\Variaveis.pdb
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Variaveis\obj\Debug\Variaveis.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Variaveis\obj\Debug\Variaveis.exe
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Variaveis\obj\Debug\Variaveis.pdb

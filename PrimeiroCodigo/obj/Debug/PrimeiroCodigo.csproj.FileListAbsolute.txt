@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\source\repos\PrimeiroCodigo\bin\Debug\PrimeiroCodigo.exe.config
+C:\Users\murilo.fsantos1\source\repos\PrimeiroCodigo\bin\Debug\PrimeiroCodigo.exe
+C:\Users\murilo.fsantos1\source\repos\PrimeiroCodigo\bin\Debug\PrimeiroCodigo.pdb
+C:\Users\murilo.fsantos1\source\repos\PrimeiroCodigo\obj\Debug\PrimeiroCodigo.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\source\repos\PrimeiroCodigo\obj\Debug\PrimeiroCodigo.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\source\repos\PrimeiroCodigo\obj\Debug\PrimeiroCodigo.exe
+C:\Users\murilo.fsantos1\source\repos\PrimeiroCodigo\obj\Debug\PrimeiroCodigo.pdb
