@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Condicionais\bin\Debug\Condicionais.exe.config
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Condicionais\bin\Debug\Condicionais.exe
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Condicionais\bin\Debug\Condicionais.pdb
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Condicionais\obj\Debug\Condicionais.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Condicionais\obj\Debug\Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Condicionais\obj\Debug\Condicionais.exe
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Condicionais\obj\Debug\Condicionais.pdb
