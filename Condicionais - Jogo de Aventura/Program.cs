@@ -10,22 +10,49 @@ namespace Condicionais___Jogo_de_Aventura
     {
         static void Main(string[] args)
         {
-            int vida = 100, acao, escolha;
-            bool espada = false;
+            int vida = 100, acao, escolha1, escolha2;
+            bool espada = false, escudo = false;
 
-            Console.WriteLine("Você encontrou uma espada. \nEscoha uma opção: \nPressione 1 -> Pegar espada \nPressione 2 -> Ignorar espada ");
-            escolha = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine($"Você encontrou uma espada. \n" +
+                $"Escoha uma opção: \n" +
+                $"Pressione 1 -> Pegar espada \n" +
+                $"Pressione 2 -> Ignorar espada ");
+            escolha1 = Convert.ToInt32(Console.ReadLine());
 
-            if(escolha == 1)
+            if(escolha1 == 1)
             {
                 espada = true;
+                Console.WriteLine("Você obteve: ESPADA");
             }
             else
             {
                 espada = false;
             }
+            Console.WriteLine("Continuando o jogo ...");
+            Console.ReadKey();
+            Console.Clear();
 
-            Console.WriteLine("Você encontrou um monstro! \nEscoha uma ação: \nPressione 1 -> Atacar \nPressione 2 -> Fugir ");
+            Console.WriteLine($"Você encontrou um escudo. \n" +
+            $"Escoha uma opção: \n" +
+            $"Pressione 1 -> Pegar escudo \n" +
+            $"Pressione 2 -> Ignorar escudo ");
+            escolha2 = Convert.ToInt32(Console.ReadLine());
+
+            if (escolha1 == 1)
+            {
+                escudo = true;
+                Console.WriteLine("Você obteve: ESCUDO");
+            }
+            else
+            {
+                escudo = false;
+            }
+            Console.WriteLine("Continuando o jogo ...");
+            Console.ReadKey();
+            Console.Clear();
+
+
+            Console.WriteLine("Você encontrou um monstro! \nEscoha uma ação: \nPressione 1 -> Atacar \nPressione 2 -> Defender \n 3 -> Fugir ");
             acao = Convert.ToInt32(Console.ReadLine());
 
             if (acao == 1)
@@ -36,21 +63,24 @@ namespace Condicionais___Jogo_de_Aventura
                 }
                 else
                 {
-                    vida -= 30;
-                    Console.WriteLine($"Você atacou o monstro e perdeu 30 pontos de vida. \nPontos de vida: {vida}");
+                    vida -= 50;
+                    Console.WriteLine($"Você atacou o monstro e perdeu 50 pontos de vida. \nPontos de vida: {vida}");
                 }
             }
-
-            if(acao == 2)
+            else if (acao == 2)
             {
-                Console.WriteLine($"Você fugiu do monstro. \nPontos de vida: {vida}");
-            }
-            //else
-            //{
-            //    Console.WriteLine($"Opção inválida, tente novamente!");
-            //}
+                if (escudo == true)
+                {
+                    vida -= 10;
+                    Console.WriteLine($"Você de defendeu do ataque do monstro mas perdeu 10 pontos de vida. \nPontos de vida: {vida}");
+                }
 
-            Console.ReadKey(); 
+                if (acao == 3)
+                {
+                    Console.WriteLine($"Você fugiu do monstro. \nPontos de vida: {vida}");
+                }
+            }
+            Console.ReadKey();
             
         }
     }
