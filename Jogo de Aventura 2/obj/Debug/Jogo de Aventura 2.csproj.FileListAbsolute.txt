@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Jogo de Aventura 2\bin\Debug\Jogo de Aventura 2.exe.config
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Jogo de Aventura 2\bin\Debug\Jogo de Aventura 2.exe
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Jogo de Aventura 2\bin\Debug\Jogo de Aventura 2.pdb
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Jogo de Aventura 2\obj\Debug\Jogo de Aventura 2.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Jogo de Aventura 2\obj\Debug\Jogo de Aventura 2.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Jogo de Aventura 2\obj\Debug\Jogo de Aventura 2.exe
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\Jogo de Aventura 2\obj\Debug\Jogo de Aventura 2.pdb
