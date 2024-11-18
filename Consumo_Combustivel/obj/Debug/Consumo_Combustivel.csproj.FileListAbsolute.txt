@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\Consumo_Combustivel\bin\Debug\Consumo_Combustivel.exe.config
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\Consumo_Combustivel\bin\Debug\Consumo_Combustivel.exe
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\Consumo_Combustivel\bin\Debug\Consumo_Combustivel.pdb
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\Consumo_Combustivel\obj\Debug\Consumo_Combustivel.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\Consumo_Combustivel\obj\Debug\Consumo_Combustivel.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\Consumo_Combustivel\obj\Debug\Consumo_Combustivel.exe
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\Consumo_Combustivel\obj\Debug\Consumo_Combustivel.pdb

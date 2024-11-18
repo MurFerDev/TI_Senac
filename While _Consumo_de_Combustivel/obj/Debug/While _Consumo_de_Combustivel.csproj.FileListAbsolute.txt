@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\While _Consumo_de_Combustivel\bin\Debug\While _Consumo_de_Combustivel.exe.config
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\While _Consumo_de_Combustivel\bin\Debug\While _Consumo_de_Combustivel.exe
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\While _Consumo_de_Combustivel\bin\Debug\While _Consumo_de_Combustivel.pdb
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\While _Consumo_de_Combustivel\obj\Debug\While _Consumo_de_Combustivel.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\While _Consumo_de_Combustivel\obj\Debug\While _Consumo_de_Combustivel.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\While _Consumo_de_Combustivel\obj\Debug\While _Consumo_de_Combustivel.exe
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\While _Consumo_de_Combustivel\obj\Debug\While _Consumo_de_Combustivel.pdb

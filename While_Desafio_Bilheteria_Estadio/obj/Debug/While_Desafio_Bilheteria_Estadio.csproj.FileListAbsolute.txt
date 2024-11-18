@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\While_Desafio_Bilheteria_Estadio\bin\Debug\While_Desafio_Bilheteria_Estadio.exe.config
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\While_Desafio_Bilheteria_Estadio\bin\Debug\While_Desafio_Bilheteria_Estadio.exe
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\While_Desafio_Bilheteria_Estadio\bin\Debug\While_Desafio_Bilheteria_Estadio.pdb
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\While_Desafio_Bilheteria_Estadio\obj\Debug\While_Desafio_Bilheteria_Estadio.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\While_Desafio_Bilheteria_Estadio\obj\Debug\While_Desafio_Bilheteria_Estadio.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\While_Desafio_Bilheteria_Estadio\obj\Debug\While_Desafio_Bilheteria_Estadio.exe
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\While_Desafio_Bilheteria_Estadio\obj\Debug\While_Desafio_Bilheteria_Estadio.pdb

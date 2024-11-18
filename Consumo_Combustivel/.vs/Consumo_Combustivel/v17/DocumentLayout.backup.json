@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_SenacSalto\\Consumo_Combustivel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{559D6145-19D6-4545-BB77-EC671A85B9DE}|Consumo_Combustivel.csproj|c:\\users\\murilo.fsantos1\\source\\repos\\ti_senacsalto\\consumo_combustivel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{559D6145-19D6-4545-BB77-EC671A85B9DE}|Consumo_Combustivel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_SenacSalto\\Consumo_Combustivel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_SenacSalto\\Consumo_Combustivel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwEgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T22:57:55.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

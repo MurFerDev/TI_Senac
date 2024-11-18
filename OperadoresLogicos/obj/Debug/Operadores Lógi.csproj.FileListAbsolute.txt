@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\source\repos\Operadores Lógi\bin\Debug\Operadores Lógi.exe.config
+C:\Users\murilo.fsantos1\source\repos\Operadores Lógi\bin\Debug\Operadores Lógi.exe
+C:\Users\murilo.fsantos1\source\repos\Operadores Lógi\bin\Debug\Operadores Lógi.pdb
+C:\Users\murilo.fsantos1\source\repos\Operadores Lógi\obj\Debug\Operadores Lógi.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\source\repos\Operadores Lógi\obj\Debug\Operadores Lógi.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\source\repos\Operadores Lógi\obj\Debug\Operadores Lógi.exe
+C:\Users\murilo.fsantos1\source\repos\Operadores Lógi\obj\Debug\Operadores Lógi.pdb

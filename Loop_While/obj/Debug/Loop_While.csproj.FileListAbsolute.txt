@@ -1,0 +1,14 @@
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Loop_While\bin\Debug\Loop_While.exe.config
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Loop_While\bin\Debug\Loop_While.exe
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Loop_While\bin\Debug\Loop_While.pdb
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Loop_While\obj\Debug\Loop_While.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Loop_While\obj\Debug\Loop_While.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Loop_While\obj\Debug\Loop_While.exe
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Loop_While\obj\Debug\Loop_While.pdb
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\Loop_While\bin\Debug\Loop_While.exe.config
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\Loop_While\bin\Debug\Loop_While.exe
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\Loop_While\bin\Debug\Loop_While.pdb
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\Loop_While\obj\Debug\Loop_While.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\Loop_While\obj\Debug\Loop_While.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\Loop_While\obj\Debug\Loop_While.exe
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\Loop_While\obj\Debug\Loop_While.pdb

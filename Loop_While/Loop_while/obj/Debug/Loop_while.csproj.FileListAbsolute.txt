@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Loop_While\Loop_while\bin\Debug\Loop_while.exe.config
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Loop_While\Loop_while\bin\Debug\Loop_while.exe
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Loop_While\Loop_while\bin\Debug\Loop_while.pdb
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Loop_While\Loop_while\obj\Debug\Loop_while.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Loop_While\Loop_while\obj\Debug\Loop_while.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Loop_While\Loop_while\obj\Debug\Loop_while.exe
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Loop_While\Loop_while\obj\Debug\Loop_while.pdb
