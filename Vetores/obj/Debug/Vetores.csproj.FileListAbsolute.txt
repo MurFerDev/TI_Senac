@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Vetores\bin\Debug\Vetores.exe.config
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Vetores\bin\Debug\Vetores.exe
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Vetores\bin\Debug\Vetores.pdb
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Vetores\obj\Debug\Vetores.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Vetores\obj\Debug\Vetores.exe
+C:\Users\murilo.fsantos1\Documents\GitHub\TI_SenacSalto\C_Sharp\Vetores\obj\Debug\Vetores.pdb
