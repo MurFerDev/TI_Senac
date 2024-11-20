@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\For\bin\Debug\For.exe.config
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\For\bin\Debug\For.exe
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\For\bin\Debug\For.pdb
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\For\obj\Debug\For.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\For\obj\Debug\For.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\For\obj\Debug\For.exe
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\For\obj\Debug\For.pdb

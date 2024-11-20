@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6F095B8B-EE31-4B0A-A3F7-B5FAD73FBAFE}</ProjectGuid>
+    <ProjectGuid>{2F54930F-5AE6-4E5A-A393-63FE0441D35A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Vetores</RootNamespace>
     <AssemblyName>Vetores</AssemblyName>

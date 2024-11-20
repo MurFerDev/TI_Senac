@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\PerguntasRespostas\bin\Debug\PerguntasRespostas.exe.config
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\PerguntasRespostas\bin\Debug\PerguntasRespostas.exe
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\PerguntasRespostas\bin\Debug\PerguntasRespostas.pdb
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\PerguntasRespostas\obj\Debug\PerguntasRespostas.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\PerguntasRespostas\obj\Debug\PerguntasRespostas.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\PerguntasRespostas\obj\Debug\PerguntasRespostas.exe
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\PerguntasRespostas\obj\Debug\PerguntasRespostas.pdb

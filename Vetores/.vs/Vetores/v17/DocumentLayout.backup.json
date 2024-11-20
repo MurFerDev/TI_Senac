@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\murilo.fsantos1\\Documents\\GitHub\\TI_SenacSalto\\C_Sharp\\Vetores\\",
+  "WorkspaceRootPath": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_SenacSalto\\C_Sharp\\Vetores\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F095B8B-EE31-4B0A-A3F7-B5FAD73FBAFE}|Vetores.csproj|c:\\users\\murilo.fsantos1\\documents\\github\\ti_senacsalto\\c_sharp\\vetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F095B8B-EE31-4B0A-A3F7-B5FAD73FBAFE}|Vetores.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F54930F-5AE6-4E5A-A393-63FE0441D35A}|Vetores.csproj|c:\\users\\murilo.fsantos1\\source\\repos\\ti_senacsalto\\c_sharp\\vetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F54930F-5AE6-4E5A-A393-63FE0441D35A}|Vetores.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\murilo.fsantos1\\Documents\\GitHub\\TI_SenacSalto\\C_Sharp\\Vetores\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_SenacSalto\\C_Sharp\\Vetores\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\murilo.fsantos1\\Documents\\GitHub\\TI_SenacSalto\\C_Sharp\\Vetores\\Program.cs*",
+              "ToolTip": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_SenacSalto\\C_Sharp\\Vetores\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T22:35:03.35Z",
+              "WhenOpened": "2024-11-18T22:45:29.885Z",
               "EditorCaption": ""
             }
           ]
