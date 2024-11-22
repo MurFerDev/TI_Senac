@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\MetodosFuncoes\bin\Debug\MetodosFuncoes.exe.config
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\MetodosFuncoes\bin\Debug\MetodosFuncoes.exe
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\MetodosFuncoes\bin\Debug\MetodosFuncoes.pdb
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\MetodosFuncoes\obj\Debug\MetodosFuncoes.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\MetodosFuncoes\obj\Debug\MetodosFuncoes.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\MetodosFuncoes\obj\Debug\MetodosFuncoes.exe
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\MetodosFuncoes\obj\Debug\MetodosFuncoes.pdb
