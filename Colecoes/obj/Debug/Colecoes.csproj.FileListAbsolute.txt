@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\Colecoes\bin\Debug\Colecoes.exe.config
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\Colecoes\bin\Debug\Colecoes.exe
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\Colecoes\bin\Debug\Colecoes.pdb
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\Colecoes\obj\Debug\Colecoes.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\Colecoes\obj\Debug\Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\Colecoes\obj\Debug\Colecoes.exe
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\Colecoes\obj\Debug\Colecoes.pdb

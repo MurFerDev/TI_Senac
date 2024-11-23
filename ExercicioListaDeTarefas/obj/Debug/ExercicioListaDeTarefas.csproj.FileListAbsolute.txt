@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\ExercicioListaDeTarefas\bin\Debug\ExercicioListaDeTarefas.exe.config
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\ExercicioListaDeTarefas\bin\Debug\ExercicioListaDeTarefas.exe
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\ExercicioListaDeTarefas\bin\Debug\ExercicioListaDeTarefas.pdb
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\ExercicioListaDeTarefas\obj\Debug\ExercicioListaDeTarefas.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\ExercicioListaDeTarefas\obj\Debug\ExercicioListaDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\ExercicioListaDeTarefas\obj\Debug\ExercicioListaDeTarefas.exe
+C:\Users\murilo.fsantos1\source\repos\TI_SenacSalto\C_Sharp\ExercicioListaDeTarefas\obj\Debug\ExercicioListaDeTarefas.pdb
