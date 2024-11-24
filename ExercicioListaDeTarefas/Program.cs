@@ -1,10 +1,13 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+
 
 namespace ExercicioListaDeTarefas
 {
@@ -12,68 +15,127 @@ namespace ExercicioListaDeTarefas
     {
         static void Main(string[] args)
         {
-            List<string> lista = new List<string>();
+            Console.Title = "Lista de tarefas no C#";
 
-            Console.WriteLine("Escolha uma das opções: \n1: Adicionar tarefa\n2: Remover tarefa\n3: Listar todas as tarefas\n4: Sair");
-            int opcao = int.Parse(Console.ReadLine());
+            List<string> listaDeTarefas = new List<string>();
+            int opcao;
 
-            switch (opcao)
+            do
             {
-                case 1:
-                    Console.WriteLine("Digite uma nova tarefa: ");
-                    lista.Add(Console.ReadLine());
+                Console.Clear();
+                Console.WriteLine("Escolha uma das opções: ");
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("1: Criar tarefa");
+                Console.ResetColor();
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("2: Remover tarefa");
+                Console.ResetColor();
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine("3: Listar todas as tarefas");
+                Console.ResetColor();
+                Console.ForegroundColor = ConsoleColor.DarkYellow;
+                Console.WriteLine("4: Sair");
+                Console.ResetColor();
+                Console.Write("Opção: ");
 
-                    Console.WriteLine("Deseja adicionar outra tarefa?: 1 - Sim \n2 - Não");
-                    int novaTarefa = int.Parse(Console.ReadLine());
+                // Validação da entrada
+                if (!int.TryParse(Console.ReadLine(), out opcao))
+                {
+                    Console.WriteLine("Opção inválida. Pressione qualquer tecla para tentar novamente.");
+                    Console.ReadKey();
+                    continue;
+                }
 
-                    if (novaTarefa == 1)
-                    {
-                        do
-                        {
-                            Console.WriteLine("Digite a tarefa a ser removida: ");
-                            lista.Add(Console.ReadLine());
-                        }
-                        while (novaTarefa == 1);
-                    }
-                    break;
+                switch (opcao)
+                {
+                    case 1:
+                        AdicionarTarefa(listaDeTarefas);
+                        break;
+                    case 2:
+                        RemoverTarefa(listaDeTarefas);
+                        break;
+                    case 3:
+                        ListarTarefas(listaDeTarefas);
+                        break;
+                    case 4:
+                        Console.WriteLine("Saindo... Obrigado por usar o gerenciador de tarefas!");
+                        break;
+                    default:
+                        Console.WriteLine("Opção inválida. Pressione qualquer tecla para tentar novamente.");
+                        Console.ReadKey();
+                        break;
+                }
 
-                case 2:
-                    Console.WriteLine("Digite a tarefa que deseja remover: ");
-                    lista.Remove(Console.ReadLine());
-                    break;
+            } while (opcao != 4);
+        }
 
-                case 3:
-                    Console.WriteLine("Lista de tarefas:");
+        static void AdicionarTarefa(List<string> lista)
+        {
+            Console.Clear();
+            Console.Write("Digite a nova tarefa: ");
+            string novaTarefa = Console.ReadLine();
 
-                    foreach (var tarefa in lista)
-                    {
-                        Console.WriteLine(lista + "\n");
-                    }
-                    break;
-
-                case 4:
-                    Console.Clear();
-                    Console.WriteLine("Saindo da lista de tarefas");
-                    Thread.Sleep(400);
-                    Console.Clear();
-                    Console.WriteLine("Saindo da lista de tarefas .");
-                    Thread.Sleep(400);
-                    Console.Clear();
-                    Console.WriteLine("Saindo da lista de tarefas ..");
-                    Thread.Sleep(400);
-                    Console.Clear();
-                    Console.WriteLine("Saindo da lista de tarefas ...");
-                    Thread.Sleep(400);
-                    Console.Clear();
-                    break;
-                default:
-                    Console.Write("Opção inválida!");
-                    break;
+            if (!string.IsNullOrWhiteSpace(novaTarefa))
+            {
+                lista.Add(novaTarefa);
+                Console.WriteLine("Tarefa adicionada com sucesso!");
             }
-
+            else
+            {
+                Console.WriteLine("A tarefa não pode ser vazia.");
+            }
+            Console.WriteLine("Pressione qualquer tecla para continuar.");
             Console.ReadKey();
+        }
 
+        static void RemoverTarefa(List<string> lista)
+        {
+            Console.Clear();
+            if (lista.Count == 0)
+            {
+                Console.WriteLine("Nenhuma tarefa para remover.");
+            }
+            else
+            {
+                Console.WriteLine("Tarefas atuais:");
+                for (int i = 0; i < lista.Count; i++)
+                {
+                    Console.WriteLine($"{i + 1}: {lista[i]}");
+                }
 
+                Console.Write("Digite o número da tarefa que deseja remover: ");
+                if (int.TryParse(Console.ReadLine(), out int indice) && indice > 0 && indice <= lista.Count)
+                {
+                    lista.RemoveAt(indice - 1);
+                    Console.WriteLine("Tarefa removida com sucesso!");
+                }
+                else
+                {
+                    Console.WriteLine("Número inválido.");
+                }
+            }
+            Console.WriteLine("Pressione qualquer tecla para continuar.");
+            Console.ReadKey();
+        }
+
+        static void ListarTarefas(List<string> lista)
+        {
+            Console.Clear();
+            if (lista.Count == 0)
+            {
+                Console.WriteLine("Nenhuma tarefa cadastrada.");
+            }
+            else
+            {
+                Console.WriteLine("Lista de tarefas:");
+                foreach (var tarefa in lista)
+                {
+                    Console.WriteLine($"- {tarefa}");
+                }
+            }
+            Console.WriteLine("Pressione qualquer tecla para continuar.");
+            Console.ReadKey();
         }
     }
 }
+

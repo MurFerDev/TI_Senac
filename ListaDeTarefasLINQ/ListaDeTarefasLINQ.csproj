@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{754D13E9-51F5-4C78-83AF-E89D97C2AEB1}</ProjectGuid>
+    <ProjectGuid>{E6C56186-FECB-4851-860C-63D1F4A5363B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ExercicioListaDeTarefas</RootNamespace>
-    <AssemblyName>ExercicioListaDeTarefas</AssemblyName>
+    <RootNamespace>ListaDeTarefasLINQ</RootNamespace>
+    <AssemblyName>ListaDeTarefasLINQ</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

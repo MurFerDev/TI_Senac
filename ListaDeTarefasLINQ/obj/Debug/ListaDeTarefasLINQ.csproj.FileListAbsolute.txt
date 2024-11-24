@@ -1,0 +1,7 @@
+C:\Users\muril\source\repos\MurFerDev\TI_Senac\ListaDeTarefasLINQ\obj\Debug\ListaDeTarefasLINQ.csproj.AssemblyReference.cache
+C:\Users\muril\source\repos\MurFerDev\TI_Senac\ListaDeTarefasLINQ\obj\Debug\ListaDeTarefasLINQ.csproj.CoreCompileInputs.cache
+C:\Users\muril\source\repos\MurFerDev\TI_Senac\ListaDeTarefasLINQ\bin\Debug\ListaDeTarefasLINQ.exe.config
+C:\Users\muril\source\repos\MurFerDev\TI_Senac\ListaDeTarefasLINQ\bin\Debug\ListaDeTarefasLINQ.exe
+C:\Users\muril\source\repos\MurFerDev\TI_Senac\ListaDeTarefasLINQ\bin\Debug\ListaDeTarefasLINQ.pdb
+C:\Users\muril\source\repos\MurFerDev\TI_Senac\ListaDeTarefasLINQ\obj\Debug\ListaDeTarefasLINQ.exe
+C:\Users\muril\source\repos\MurFerDev\TI_Senac\ListaDeTarefasLINQ\obj\Debug\ListaDeTarefasLINQ.pdb
