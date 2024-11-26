@@ -7,7 +7,8 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-
+using System.Data.SQlite;
+using System.IO;
 
 namespace ExercicioListaDeTarefas
 {
@@ -15,6 +16,22 @@ namespace ExercicioListaDeTarefas
     {
         static void Main(string[] args)
         {
+            // Caminho do arquivo do banco de dados
+            string dbFile = "tarefas.db";
+
+            // String de conexão com o banco de dados
+            string conectionString = $"Data Source = {dbFile};Version=3;";
+
+            // Verifica se o arquivo do DB já existe
+            //Se não existe, ele cria o DB e as tabelas
+            if (!File.Exists(dbFile))
+            {
+                // Cria um novo arquivo
+                SQLiteConnection.CreateFile(dbFile);
+            }
+
+
+
             Console.Title = "Lista de tarefas no C#";
 
             List<string> listaDeTarefas = new List<string>();

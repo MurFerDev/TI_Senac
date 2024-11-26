@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VFndLuA/azI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_Senac\\Lista De Tarefas\\Lista De Tarefas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murilo.fsantos1\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.119\\stub.system.data.sqlite.core.netframework.1.0.119.nupkg.sha512",
+    "C:\\Users\\murilo.fsantos1\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}

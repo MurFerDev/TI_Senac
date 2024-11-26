@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_Senac\\Lista De Tarefas\\Lista De Tarefas.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_Senac\\Lista De Tarefas\\Lista De Tarefas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_Senac\\Lista De Tarefas\\Lista De Tarefas.csproj",
+        "projectName": "Lista De Tarefas",
+        "projectPath": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_Senac\\Lista De Tarefas\\Lista De Tarefas.csproj",
+        "packagesPath": "C:\\Users\\murilo.fsantos1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_Senac\\Lista De Tarefas\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\murilo.fsantos1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.119, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
