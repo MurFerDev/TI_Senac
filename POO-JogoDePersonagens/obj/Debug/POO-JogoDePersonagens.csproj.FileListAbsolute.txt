@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\POO-JogoDePersonagens\bin\Debug\POO-JogoDePersonagens.exe.config
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\POO-JogoDePersonagens\bin\Debug\POO-JogoDePersonagens.exe
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\POO-JogoDePersonagens\bin\Debug\POO-JogoDePersonagens.pdb
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\POO-JogoDePersonagens\obj\Debug\POO-JogoDePersonagens.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\POO-JogoDePersonagens\obj\Debug\POO-JogoDePersonagens.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\POO-JogoDePersonagens\obj\Debug\POO-JogoDePersonagens.exe
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\POO-JogoDePersonagens\obj\Debug\POO-JogoDePersonagens.pdb

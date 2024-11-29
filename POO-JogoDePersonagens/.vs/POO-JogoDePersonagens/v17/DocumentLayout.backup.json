@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_Senac\\POO-JogoDePersonagens\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6118000-6D9B-46A1-B467-407E0D437FF0}|POO-JogoDePersonagens.csproj|c:\\users\\murilo.fsantos1\\source\\repos\\ti_senac\\poo-jogodepersonagens\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6118000-6D9B-46A1-B467-407E0D437FF0}|POO-JogoDePersonagens.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6118000-6D9B-46A1-B467-407E0D437FF0}|POO-JogoDePersonagens.csproj|c:\\users\\murilo.fsantos1\\source\\repos\\ti_senac\\poo-jogodepersonagens\\guerreiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6118000-6D9B-46A1-B467-407E0D437FF0}|POO-JogoDePersonagens.csproj|solutionrelative:guerreiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6118000-6D9B-46A1-B467-407E0D437FF0}|POO-JogoDePersonagens.csproj|c:\\users\\murilo.fsantos1\\source\\repos\\ti_senac\\poo-jogodepersonagens\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6118000-6D9B-46A1-B467-407E0D437FF0}|POO-JogoDePersonagens.csproj|solutionrelative:mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6118000-6D9B-46A1-B467-407E0D437FF0}|POO-JogoDePersonagens.csproj|c:\\users\\murilo.fsantos1\\source\\repos\\ti_senac\\poo-jogodepersonagens\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6118000-6D9B-46A1-B467-407E0D437FF0}|POO-JogoDePersonagens.csproj|solutionrelative:personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mago.cs",
+              "DocumentMoniker": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_Senac\\POO-JogoDePersonagens\\Mago.cs",
+              "RelativeDocumentMoniker": "Mago.cs",
+              "ToolTip": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_Senac\\POO-JogoDePersonagens\\Mago.cs",
+              "RelativeToolTip": "Mago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:50:27.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guerreiro.cs",
+              "DocumentMoniker": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_Senac\\POO-JogoDePersonagens\\Guerreiro.cs",
+              "RelativeDocumentMoniker": "Guerreiro.cs",
+              "ToolTip": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_Senac\\POO-JogoDePersonagens\\Guerreiro.cs",
+              "RelativeToolTip": "Guerreiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:36:11.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_Senac\\POO-JogoDePersonagens\\Personagem.cs",
+              "RelativeDocumentMoniker": "Personagem.cs",
+              "ToolTip": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_Senac\\POO-JogoDePersonagens\\Personagem.cs",
+              "RelativeToolTip": "Personagem.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:10:54.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_Senac\\POO-JogoDePersonagens\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\murilo.fsantos1\\source\\repos\\TI_Senac\\POO-JogoDePersonagens\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:08:52.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

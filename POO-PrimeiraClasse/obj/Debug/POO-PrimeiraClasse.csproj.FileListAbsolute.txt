@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\POO-PrimeiraClasse\bin\Debug\POO-PrimeiraClasse.exe.config
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\POO-PrimeiraClasse\bin\Debug\POO-PrimeiraClasse.exe
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\POO-PrimeiraClasse\bin\Debug\POO-PrimeiraClasse.pdb
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\POO-PrimeiraClasse\obj\Debug\POO-PrimeiraClasse.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\POO-PrimeiraClasse\obj\Debug\POO-PrimeiraClasse.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\POO-PrimeiraClasse\obj\Debug\POO-PrimeiraClasse.exe
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\POO-PrimeiraClasse\obj\Debug\POO-PrimeiraClasse.pdb
