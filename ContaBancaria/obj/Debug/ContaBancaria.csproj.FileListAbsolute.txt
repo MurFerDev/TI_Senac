@@ -1,0 +1,7 @@
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\ContaBancaria\bin\Debug\ContaBancaria.exe.config
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\ContaBancaria\bin\Debug\ContaBancaria.exe
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\ContaBancaria\bin\Debug\ContaBancaria.pdb
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\ContaBancaria\obj\Debug\ContaBancaria.csproj.AssemblyReference.cache
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\ContaBancaria\obj\Debug\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\ContaBancaria\obj\Debug\ContaBancaria.exe
+C:\Users\murilo.fsantos1\source\repos\TI_Senac\ContaBancaria\obj\Debug\ContaBancaria.pdb
