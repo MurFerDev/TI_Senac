@@ -27,7 +27,7 @@ namespace Zoologico
 
             if (idade < 0) // Idade não pode ser negativa
             {
-                throw new ArgumentException("A idade no animal não pode ser negativa.");
+                throw new ArgumentException("A idade do animal não pode ser negativa.");
             }
 
             if (string.IsNullOrWhiteSpace(alimento)) // alimento não pode ser vazio ou nulo
@@ -45,7 +45,8 @@ namespace Zoologico
 
         public virtual string Descrever()
         {
-            return $"Animal: {Nome}, idade: {Idade} anos"; 
+            return $"Animal: {Nome}, idade: {Idade} anos. ";
+        }
 
     }
 }
